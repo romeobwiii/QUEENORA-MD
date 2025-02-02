@@ -97,11 +97,7 @@ jobs:
 ```
 ---
 
-
-## CREDITS 
-# `OWNER`
-
- 
+<h3>VIEW 🤡  DEPLOY 😎  AND ENJOY 😜</h3>
 
 ---
 ### DEVELOPERS:
@@ -119,7 +115,7 @@ jobs:
 # ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact Romeo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/26776660902"><img src="https://img.shields.io/badge/Contact Romeo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href=https://whatsapp.com/channel/0029Vb3i75L3bbUyFPFwoN3w"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
