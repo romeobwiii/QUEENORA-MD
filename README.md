@@ -1,4 +1,4 @@
- **🧚‍♀️ QUEENORA-MD**
+<h1> **🧚‍♀️ QUEENORA-MD**<h1>
 
 
 </p> <p align="center">
@@ -6,11 +6,11 @@
 ---
 1. Fork The Repo
     <br>
-<a href="https://github.com/Sudaisz/Momo-md.git/fork"><img title="MOMO-MD" src="https://img.shields.io/badge/FORK MOMO-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/romeobwiii/QUEENORA-MD.git/fork"><img title="QUEENORA-MD" src="https://img.shields.io/badge/FORK QUEENORA-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
-![forks](https://img.shields.io/github/forks/https://github.com/Sudaisz/Momo-md.git?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/https://github.com/romeobwiii/QUEENORA-MD.git?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/Sudaisz/Momo-md.git?style=social)
+![stars](https://img.shields.io/github/starhttps://github.com/romeobwiii/QUEENORA-MD.git?style=social)
 
 
 
@@ -25,7 +25,7 @@
     <img alt="QUEENORA MD" height="200" src="https://i.ibb.co/gLgdgLjT/IMG-20250201-WA0143.jpg">
     
    Loading...
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+  <img src="https://github.com/romeobwiii/QUEENORA-MD.git/raw/main/assets/line-neon.gif" width="100%">
 
 
 
@@ -35,7 +35,7 @@
     <br>
 
 <p align="left">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+<a href='' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
     
 ---
@@ -45,7 +45,7 @@
 ---
 **3. Deploy to HEROKU ↓**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sudaisz/Momo-md.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/romeobwiii/QUEENORA-MD.git)
 
  **4.  Deploy to RENDER ↓**
 
@@ -101,7 +101,7 @@ jobs:
 ## CREDITS 
 # `OWNER`
 
- <a href="https://files.catbox.moe/q1k87h.jpg"><img src="https://files.catbox.moe/q1k87h.jpg" width="250" height="300" alt=" ROMEO BW III"/></a>
+ 
 
 ---
 ### DEVELOPERS:
