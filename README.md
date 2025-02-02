@@ -100,18 +100,15 @@ jobs:
 <h3>VIEW 🤡  DEPLOY 😎  AND ENJOY 😜</h3>
 
 ---
-### DEVELOPERS:
+### DEVELOPER:
 
 1. ### ROMEO BW III
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/normal31_31) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/) 
  
- ### WHATSAPP CHANNLE 👇
- <p align="left">
-<a href='[https://github.com/romeobwiii/QUEENORA-md.git](https://github.com/romeobwiii/QUEENORA-md.git)' target="_blank"><img alt='WhatsApp Channel' src='https://img.shields.io/badge/-WhatsApp Channel-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
-
+ 
 # ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
