@@ -27,7 +27,7 @@ let dec = `*👋 ʜᴇʟʟᴏ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ
 
 > *© POWERED BY ROMEO BW III*
 `
-await conn.sendMessage(from,{image:{url: `https://i.ibb.co/gLgdgLjT/IMG-20250201-WA0143.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/kq248w.jpeg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
