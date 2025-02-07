@@ -100,7 +100,7 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
 
 > *COLLAB ROMEO BW III*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/gLgdgLjT/IMG-20250201-WA0143.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/kq248w.jpeg` }, caption: up })
 
 }
 })
