@@ -83,15 +83,15 @@ let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅
 
  THIS IS QUEENORA MD
 
-*🔹 ᴘʀᴇғɪx:* +
+*🔹 ᴘʀᴇғɪx:* .
 
 *🔹 ᴏᴡɴᴇʀ:* UNDEFINED
 
-👨‍💻◦ https://github.com/OfficialHectorManuel/KANGO-XMD.git
+👨‍💻◦ https://github.com/romeobwii/QUEENORA-MD.git
 
 📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝖬𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
-👨‍💻◦ https://youtube.com/@official_manuel 
+👨‍💻◦ https://youtube.com/@romeo_bw_iii
 
 📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖥𝗈𝗅𝗅𝗈𝗐 𝖬𝗒 𝖶𝗁𝖺𝗍𝗌𝖺𝗉𝗉 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
